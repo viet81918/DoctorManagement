@@ -1,0 +1,6 @@
+View\Menu.class
+com\mycompany\doctormanage\DoctorManage.class
+Controller\DoctorHash.class
+View\Validation.class
+Model\Doctor.class
+View\Hospital.class
